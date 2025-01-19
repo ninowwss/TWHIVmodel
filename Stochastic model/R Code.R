@@ -1,5 +1,5 @@
 # this is a R script for running TW HIV stochastic model 
-
+# run for 10000 simulations
 
 sum_infected <- 0
 sum_contact <- 0
