@@ -4,7 +4,7 @@ This repository includes a HIV compartmental model built in the Stella® softwar
 
 
 Model developers and coders: 
-- [Joyce Huei-Jiuan Wu](https://github.com/ninowwss)
+- [Dr Joyce Huei-Jiuan Wu](https://github.com/ninowwss)
 - [Professor Chi-Tai Fang](https://scholars.lib.ntu.edu.tw/cris/rp/rp06639)
 - Ya-Ping Cheng
 - Dr Yi-Hsuan Chen
