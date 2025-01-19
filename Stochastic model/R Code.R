@@ -1,3 +1,6 @@
+# this is a R script for running TW HIV stochastic model 
+
+
 sum_infected <- 0
 sum_contact <- 0
 acute_infected <- 0
